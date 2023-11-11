@@ -1,0 +1,51 @@
+body {
+  background-color: #D2D5D9;
+  text-align: center;
+  background-image: src="images/ocean-lookout.jpg ;
+}
+
+h1 {
+  color: #594D4D;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+  font-family: Georgia;
+}
+
+h2, h3 {
+  color:  #594D4D;
+  
+}
+ul, ol{
+  color: #08090D;
+  font-size: 14px;
+  text-align: left;
+  text-justify: center;
+  margin-top: 20px;
+  font-family: Georgia;
+}
+
+.box {
+  width: 500px;
+  height: auto;
+  background-color: #B4B8BF;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: Georgia;
+
+}
+
+.center-content {
+  max-width: 500px;
+  margin: auto;
+}
+
+a {
+  font-family: Georgia;
+}
+a:link    {color: #8AA9BB;}
+a:visited {color: purple;}
+a:hover   {color: #242424;}
+a:active  {color: pink;}
